@@ -1,0 +1,12 @@
+# Responsáveis por revisar alterações no Book Box.
+# O usuário principal do repositório é @soficris.
+# Após definir o par de revisão, inclua o usuário dele nas regras
+# para que o GitHub solicite a revisão automaticamente.
+
+* @soficris
+/.github/ @soficris
+/docs/ @soficris
+/lib/ @soficris
+/test/ @soficris
+/pubspec.yaml @soficris
+/pubspec.lock @soficris
